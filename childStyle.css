@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+header, main, nav, section
+{
+    display: block;
+}
+header
+{
+  background-color: #11233b;
+  color: white;
+  padding: 10px 20px;
+  font-family: inherit;
+}
